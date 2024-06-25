@@ -52,7 +52,7 @@ s9_summary_annot_nullqtl.R
 **RANDOM SAMPLING**
 s10_random_sampling_1000.R
   * Aim: random sampling 1000 times for top sQTLs or top eQTLs based on the number of top QTLs in each of 20 groups
-  * Output: “sampling.RData"
+  * Output: "sampling.RData"
 s11_summary_sampling_annot.R
   * Aim: annotate SNPs in each random sampling; calculate the number of null SNPs annotated for each RBP in each random sampling; calculate the average proportion of null SNPs annotated for each RBP across random sampling.
   * Output: "eqtl_rbp_sampling.csv"; "sqtl_rbp_sampling.csv"

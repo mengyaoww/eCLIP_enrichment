@@ -1,7 +1,7 @@
 # File and R codes used to investigate enrichment of top cis-sQTLs and top cis-eQTLs
 
 ## File downloaded from ENCODE (under “ENCODE_file” folder):
-  * "eCLIP_rul_208.txt"
+  * "eCLIP_url_208.txt"
   * "experiment_report_208.tsv"
   * "experiment_report_208_encode3.tsv"
   * "experiment_report_208_encode4.tsv"
